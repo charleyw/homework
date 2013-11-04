@@ -1,0 +1,3 @@
+[submodule "hotel"]
+	path = hotel
+	url = ./reserve-hotel
